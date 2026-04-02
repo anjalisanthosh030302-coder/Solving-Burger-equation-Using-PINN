@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  1 20:26:41 2026
-
-@author: DELL
-"""
 import torch
 import torch.nn as nn
 import numpy as np
